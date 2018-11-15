@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/SingleQueryWizard/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/SingleQueryWizard/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/SingleQueryWizard/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/SingleQueryWizard/MainWindow.xaml.vb))
+* [MyWizardCustomizationService.cs](./CS/SingleQueryWizard/MyWizardCustomizationService.cs) (VB: [MyWizardCustomizationService.vb](./VB/SingleQueryWizard/MyWizardCustomizationService.vb))
+<!-- default file list end -->
 # Report Designer for WPF - How to switch the Report Wizard to a single-query version
 
 
